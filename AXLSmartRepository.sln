@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXLSmartRepository", "AXLSmartRepository\AXLSmartRepository.csproj", "{11FC6136-E585-4C21-821C-0CF7A2AD76DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXLSmartWebAPI", "..\AXLSmartWebAPI\AXLSmartWebAPI.csproj", "{C4066F83-50E2-4404-BF16-4AB8D0FDDAD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11FC6136-E585-4C21-821C-0CF7A2AD76DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FC6136-E585-4C21-821C-0CF7A2AD76DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FC6136-E585-4C21-821C-0CF7A2AD76DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FC6136-E585-4C21-821C-0CF7A2AD76DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4066F83-50E2-4404-BF16-4AB8D0FDDAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4066F83-50E2-4404-BF16-4AB8D0FDDAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4066F83-50E2-4404-BF16-4AB8D0FDDAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4066F83-50E2-4404-BF16-4AB8D0FDDAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DC56C0-32E0-4E48-B8D9-4509965C8A44}
+	EndGlobalSection
+EndGlobal
