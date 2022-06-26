@@ -11,8 +11,8 @@ namespace AXLSmartRepository.Persistence.Repositories
 {
     public class PerformanceMgntRepository : IPerformanceMgntRepository
     {
-        private PlutoContext _Context;
         public PerformanceMgntRepository(PlutoContext _context) { _Context = _context; }
+        private PlutoContext _Context;
 
         //BUDGET UTILIZATION
         public async Task<BudgetUtilizationDetail> GetBudgetUtilizationById(Guid id)
@@ -104,10 +104,12 @@ namespace AXLSmartRepository.Persistence.Repositories
             if (pMngt != null)
             {
                 _Context.ComplaintDetails.Update(pMgntDetail);
+                _Context.Entry(pMgntDetail).State = EntityState.Modified;
             }
             else
             {
                 _Context.ComplaintDetails.Add(pMgntDetail);
+                _Context.Entry(pMgntDetail).State = EntityState.Added;
             }
             _Context.ChangeTracker.DetectChanges();
             await _Context.SaveChangesAsync();

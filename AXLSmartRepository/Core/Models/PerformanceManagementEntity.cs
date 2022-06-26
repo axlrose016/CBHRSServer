@@ -50,7 +50,7 @@ namespace AXLSmartRepository.Core.Models
     public class OrganizationalGoalList_vw
     {
         public Guid orgGoalId { get; set; }
-        public string mandateOfOffice { get; set; }
+        public string missionOfOffice { get; set; }
         public string visionOfOffice { get; set; }
     }
     public class HRStaffingPlanDetail
@@ -59,14 +59,14 @@ namespace AXLSmartRepository.Core.Models
         public virtual Guid hrStaffingId { get; set; }
         public virtual int existingNosPersonnelJO { get; set; }
         public virtual int existingNosPersonnelPlantil { get; set; }
-        public virtual int NosFilledPosJO { get; set; }
-        public virtual int NosFilledPosPlantil { get; set; }
-        public virtual int NosUnfilledPosJO { get; set; }
-        public virtual int NosUnfilledPosPlantil { get; set; }
-        public virtual int NosProposedPosToChangeJO { get; set; }
-        public virtual int NosProposedPosToChangePlantil { get; set; }
-        public virtual int ProposedNosPersonnelNextYrJO { get; set; }
-        public virtual int ProposedNosPersonnelNextYrPlantil { get; set; }
+        public virtual int nosFilledPosJO { get; set; }
+        public virtual int nosFilledPosPlantil { get; set; }
+        public virtual int nosUnfilledPosJO { get; set; }
+        public virtual int nosUnfilledPosPlantil { get; set; }
+        public virtual int nosProposedPosToChangeJO { get; set; }
+        public virtual int nosProposedPosToChangePlantil { get; set; }
+        public virtual int proposedNosPersonnelNextYrJO { get; set; }
+        public virtual int proposedNosPersonnelNextYrPlantil { get; set; }
         public virtual string deleted_by { get; set; }
         public virtual DateTime deleted_date { get; set; }
         public virtual bool is_deleted { get; set; }
@@ -79,17 +79,20 @@ namespace AXLSmartRepository.Core.Models
     }
     public class ComplaintDetail
     {
+        [Key]
         public virtual Guid complaintId { get; set; }
         public virtual int officeId { get; set; }
-        public virtual PersonDetail personDetails { get; set; }
+        public virtual Guid personId { get; set; }
         public virtual int typeOfComplaint { get; set; }
         public virtual string  grievanceDetails { get; set; }
-        public virtual PersonDetail complaineeDetails { get; set; }
+        public virtual Guid complaineeId { get; set; }
         public virtual string emailAddressComplainant { get; set; }
         public virtual string emailAddressSupervisor { get; set; }
         public virtual string deleted_by { get; set; }
         public virtual DateTime deleted_date { get; set; }
         public virtual bool is_deleted { get; set; }
+        public virtual string complaintName { get; set; }
+        public virtual string complaineeName { get; set; }
     }
     public class ComplaintList_vw
     {

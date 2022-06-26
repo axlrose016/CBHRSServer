@@ -143,13 +143,16 @@
     <Compile Include="Core\Models\LibraryEntity.cs" />
     <Compile Include="Core\Models\PerformanceManagementEntity.cs" />
     <Compile Include="Core\Models\PES11Entity.cs" />
+    <Compile Include="Core\Models\RecruitmentEntity.cs" />
     <Compile Include="Core\Models\SettingEntity.cs" />
     <Compile Include="Core\Models\UserEntity.cs" />
     <Compile Include="Core\Repositories\IClearanceRepository.cs" />
     <Compile Include="Core\Repositories\ILDNARepository.cs" />
     <Compile Include="Core\Repositories\ILibraryRepository.cs" />
+    <Compile Include="Core\Repositories\IPerformanceRateRepository.cs" />
     <Compile Include="Core\Repositories\IPersonRepository.cs" />
     <Compile Include="Core\Repositories\IPES11Repository.cs" />
+    <Compile Include="Core\Repositories\IRecruitmentRepository.cs" />
     <Compile Include="Core\Repositories\IRepository.cs" />
     <Compile Include="Core\Repositories\ISettingRepository.cs" />
     <Compile Include="Core\Repositories\IUserRepository.cs" />
@@ -160,8 +163,10 @@
     <Compile Include="Persistence\Repositories\LDNARepository.cs" />
     <Compile Include="Persistence\Repositories\LibraryRepository.cs" />
     <Compile Include="Persistence\Repositories\PerformanceMgntRepository.cs" />
+    <Compile Include="Persistence\Repositories\PerformanceRateRepository.cs" />
     <Compile Include="Persistence\Repositories\PersonRepository.cs" />
     <Compile Include="Persistence\Repositories\PES11Repository.cs" />
+    <Compile Include="Persistence\Repositories\RecruitmentRepository.cs" />
     <Compile Include="Persistence\Repositories\Repository.cs" />
     <Compile Include="Persistence\Repositories\SettingRepository.cs" />
     <Compile Include="Persistence\Repositories\UserRepository.cs" />

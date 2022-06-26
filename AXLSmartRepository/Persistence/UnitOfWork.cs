@@ -22,6 +22,8 @@ namespace AXLSmartRepository.Persistence
         public IClearanceRepository Clearances { get; set; }
         public IPES11Repository PES11s { get; set; }
         public IPerformanceMgntRepository PerformanceMgnts { get; set; }
+        public IRecruitmentRepository Recruitment { get; set; }
+        public IPerformanceRateRepository PerformanceRates { get; set; }
 
         public UnitOfWork(PlutoContext _context)
         {
@@ -35,6 +37,8 @@ namespace AXLSmartRepository.Persistence
             Clearances = new ClearanceRepository(Context);
             PES11s = new PES11Repository(Context);
             PerformanceMgnts = new PerformanceMgntRepository(Context);
+            Recruitment = new RecruitmentRepository(Context);
+            PerformanceRates = new PerformanceRateRepository(Context);
         }
 
         public int Complete()

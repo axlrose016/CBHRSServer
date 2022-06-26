@@ -11,7 +11,7 @@ namespace AXLSmartRepository.Core.Repositories
     {
         Task<Guid> UpdateLDNADetails(LDNADetails ldnaDetail);
         Task<LDNADetails> GetLDNAById(Guid id);
-        List<LDNADetails> GetLDNAList();
+        List<LDNAList_vw> GetLDNAList();
         Task<List<LDNAConsolidated_sp>> GetLDNAConsolidated_Sps();
     }
 }

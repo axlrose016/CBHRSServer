@@ -31,7 +31,7 @@ namespace AXLSmartRepository.Persistence.Repositories
         }
         public async Task<PersonDetail> GetPDSById(Guid id)
         {
-            return await PlutoContext.PersonDetails.Where(w => w.userId == id).FirstOrDefaultAsync();
+            return await PlutoContext.PersonDetails.Where(w => w.personId == id).FirstOrDefaultAsync();
         }
 
         public List<PersonList_vw> GetPDSListView()

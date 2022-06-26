@@ -28,9 +28,9 @@ namespace AXLSmartRepository.Persistence.Repositories
             return await PlutoContext.LDNAConsolidated_Sps.FromSqlRaw("[dbo].[LDNAResult_sp]").ToListAsync();
         }
 
-        public List<LDNADetails> GetLDNAList()
+        public List<LDNAList_vw> GetLDNAList()
         {
-            return PlutoContext.LDNADetails.ToList();
+            return PlutoContext.LDNAList_vws.ToList();
         }
 
         public async Task<Guid> UpdateLDNADetails(LDNADetails ldnaDetail)

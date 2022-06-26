@@ -50,18 +50,20 @@ namespace AXLSmartRepository.Core.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public virtual int jobClassificationId { get; set; }
-        [StringLength(10)]
-        public virtual string occupationalServCode { get; set; }
-        [StringLength(200)]
-        public virtual string occupationalDesc { get; set; } 
-        [StringLength(10)]
-        public virtual string occupationalGrpCode { get; set; }
-        [StringLength(200)]
-        public virtual string occupationalGrpDesc { get; set; }
-        [StringLength(20)]
-        public virtual string classCode { get; set; }
-        [StringLength(200)]
-        public virtual string classDesc { get; set; }
+        public virtual int occupationalServCode { get; set; }
+        //[StringLength(200)]
+        //public virtual string occupationalDesc { get; set; } 
+        //[StringLength(10)]
+        //public virtual string occupationalGrpCode { get; set; }
+        //[StringLength(200)]
+        //public virtual string occupationalGrpDesc { get; set; }
+        //[StringLength(20)]
+        //public virtual string classCode { get; set; }
+        //[StringLength(200)]
+        //public virtual string classDesc { get; set; }
+        public virtual int numerical_suffix { get; set; }
+        [StringLength(500)]
+        public virtual string duties_and_responsibilities { get; set; }
         public virtual int salary_grade { get; set; }
         public virtual bool is_active { get; set; }
     }

@@ -19,6 +19,8 @@ namespace AXLSmartRepository.Core
         IClearanceRepository Clearances { get; set; }
         IPES11Repository PES11s { get; set; }
         IPerformanceMgntRepository PerformanceMgnts { get; set; }
+        IRecruitmentRepository Recruitment { get; set; }
+        IPerformanceRateRepository PerformanceRates { get; set; }
         int Complete();
     }
 }
