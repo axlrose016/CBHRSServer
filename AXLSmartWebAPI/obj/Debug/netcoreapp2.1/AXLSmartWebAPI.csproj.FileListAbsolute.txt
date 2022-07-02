@@ -1,0 +1,17 @@
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp2.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp2.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp2.1\AXLSmartWebAPI.AssemblyInfo.cs
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp2.1\AXLSmartWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\AXLSmartWebAPI.deps.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\AXLSmartWebAPI.runtimeconfig.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\AXLSmartWebAPI.runtimeconfig.dev.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\AXLSmartWebAPI.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\AXLSmartRepository.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\AdvanceXtensionLibrary.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\AXLSmartRepository.pdb
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp2.1\AXLSmartRepository.dll.config
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp2.1\AXLSmartWebAPI.csproj.CopyComplete
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp2.1\AXLSmartWebAPI.genruntimeconfig.cache

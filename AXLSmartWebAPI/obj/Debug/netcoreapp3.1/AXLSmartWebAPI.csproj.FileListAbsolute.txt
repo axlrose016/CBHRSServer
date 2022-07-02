@@ -1,0 +1,1291 @@
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+D:\Axl\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+D:\Axl\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+D:\Axl\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+D:\Axl\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Axl\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.exe
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.deps.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.dev.json
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AdvanceXtensionLibrary.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.pdb
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll.config
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CopyComplete
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.xml
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.genruntimeconfig.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kalah\Desktop\Office Laptop Backup\Axl(MAPA)\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.exe
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.deps.json
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.json
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.dev.json
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AdvanceXtensionLibrary.dll
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.pdb
+E:\Project\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll.config
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.Manifest.cache
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.xml
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CopyComplete
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+E:\Project\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.exe
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.deps.json
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.json
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.dev.json
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AdvanceXtensionLibrary.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.pdb
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll.config
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.Manifest.cache
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.xml
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CopyComplete
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Visual Studio\MyTemplates\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.exe
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.deps.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.dev.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AdvanceXtensionLibrary.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll.config
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.Manifest.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.xml
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CopyComplete
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.exe
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.deps.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.dev.json
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AdvanceXtensionLibrary.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll.config
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.Manifest.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.xml
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.Properties.Resources.resources
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CopyComplete
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AXLSmartWebAPI.styles.css
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.genruntimeconfig.cache
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Projects\Visual Studio\MyTemplates\BackEnd\Latest\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\AXLSmartWebAPI20210109031728 - Web Deploy\profile.arm.json
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.exe
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.deps.json
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.json
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.dev.json
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AdvanceXtensionLibrary.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.pdb
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll.config
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.Properties.Resources.resources
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.GenerateResource.cache
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CopyComplete
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.Manifest.cache
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.xml
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Sidelines\CASSD Project\BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.genruntimeconfig.cache
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.exe
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.deps.json
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.json
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.dev.json
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AdvanceXtensionLibrary.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.pdb
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll.config
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csprojAssemblyReference.cache
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.Properties.Resources.resources
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.GenerateResource.cache
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.Manifest.cache
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.xml
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AXLSmartWebAPI.styles.css
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CopyComplete
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Sidelines\CASSD BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.genruntimeconfig.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.exe
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.deps.json
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.json
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.runtimeconfig.dev.json
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AdvanceXtensionLibrary.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.pdb
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\AXLSmartRepository.dll.config
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.Properties.Resources.resources
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.GenerateResource.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfoInputs.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.AssemblyInfo.cs
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.Manifest.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\AXLSmartWebAPI.StaticWebAssets.xml
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AXLSmartWebAPI.styles.css
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.CopyComplete
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.dll
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.pdb
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.genruntimeconfig.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\bin\Debug\netcoreapp3.1\libman.json
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.csproj.AssemblyReference.cache
+D:\Projects\Sidelines\CloudBaseHRSystem BackEnd\AXLSmartWebAPI\obj\Debug\netcoreapp3.1\AXLSmartWebAPI.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAn3qm0woBgE6Mu28X5ZOjPwAAAAACAAAAAAAQZgAAAAEAACAAAADj1up02JKE5habtaVUaDV3c7WivzVRd2PDcJpC+G0QaAAAAAAOgAAAAAIAACAAAADRTtZs+qvlbPLKryeJFXmoFv1IM/nDhPiQ2DfrMX8U7oAAAACWNsyeFf3g4zz5VVgjP3HaeZQcnvsY49T8m26OKpts0grt6tCVV8RQnEqhN8Ll8LJX+n8m5NQZlgvipiRdhPC3rWpYJnT4oCO4CQbveic7/JxWvWtP4zGlX39NxKKfObAhaOf+diRatTM5cBtJJz9VeHNw6M5tFSyS8Ur2Nda/i0AAAAAHpS+TeZD3pGmSjNQLOnUCMIJ5FV1bDETClcof+Ofj/p6Sx9r36ZIX+0rVeDouQRVrmh0t/O7dAhND8IdVDBGS</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:cbhrsserver.database.windows.net,1433%3bInitial Catalog=cbhrsserver%3bUser Id=cbhrsadmin%40cbhrsserver%3bPassword=p%40ssw0rd</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
