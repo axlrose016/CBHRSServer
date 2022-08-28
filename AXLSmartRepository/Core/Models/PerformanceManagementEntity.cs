@@ -93,10 +93,12 @@ namespace AXLSmartRepository.Core.Models
         public virtual bool is_deleted { get; set; }
         public virtual string complaintName { get; set; }
         public virtual string complaineeName { get; set; }
+        public virtual bool is_guilty { get; set; }
     }
     public class ComplaintList_vw
     {
         public Guid complaintId { get; set; }
+        public Guid personId { get; set; }
         public string officeId { get; set; }
         public string complaintName { get; set; }
         public string typeOfComplaint { get; set; }

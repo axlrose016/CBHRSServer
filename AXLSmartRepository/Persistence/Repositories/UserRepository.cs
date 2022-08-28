@@ -35,7 +35,7 @@ namespace AXLSmartRepository.Persistence.Repositories
                     userName = user.userName,
                     salt = temp_salt,
                     hash_code = axl_guard.HashSHA256(user.password, temp_salt),
-                    user_level = 3,
+                    user_level = 1,
                 };
                 PlutoContext.Users.Add(newUser);
             }

@@ -116,6 +116,14 @@ namespace AXLSmartRepository.Persistence.Repositories
             return pMgntDetail.complaintId;
         }
 
+        public async Task<ComplaintDetail> GetComplaineeDetailById(Guid id)
+        {
+            return await _Context.ComplaintDetails.Where(w => w.complaineeId == id).FirstOrDefaultAsync();
+        }
 
+        public async Task<ComplaintDetail> GetIsGuiltyComplainee(Guid id)
+        {
+            return await _Context.ComplaintDetails.Where(w => w.complaineeId == id && w.is_guilty == true).FirstOrDefaultAsync();
+        }
     }
 }

@@ -140,6 +140,7 @@
     <Compile Include="Core\IUnitOfWork.cs" />
     <Compile Include="Core\Models\ClearanceEntity.cs" />
     <Compile Include="Core\Models\LearningAndDevelopmentEntity.cs" />
+    <Compile Include="Core\Models\LeaveEntity.cs" />
     <Compile Include="Core\Models\LibraryEntity.cs" />
     <Compile Include="Core\Models\PerformanceManagementEntity.cs" />
     <Compile Include="Core\Models\PES11Entity.cs" />
@@ -148,6 +149,7 @@
     <Compile Include="Core\Models\UserEntity.cs" />
     <Compile Include="Core\Repositories\IClearanceRepository.cs" />
     <Compile Include="Core\Repositories\ILDNARepository.cs" />
+    <Compile Include="Core\Repositories\ILeaveRepository.cs" />
     <Compile Include="Core\Repositories\ILibraryRepository.cs" />
     <Compile Include="Core\Repositories\IPerformanceRateRepository.cs" />
     <Compile Include="Core\Repositories\IPersonRepository.cs" />
@@ -161,6 +163,7 @@
     <Compile Include="Persistence\PlutoContext.cs" />
     <Compile Include="Persistence\Repositories\ClearanceRepository.cs" />
     <Compile Include="Persistence\Repositories\LDNARepository.cs" />
+    <Compile Include="Persistence\Repositories\LeaveRepository.cs" />
     <Compile Include="Persistence\Repositories\LibraryRepository.cs" />
     <Compile Include="Persistence\Repositories\PerformanceMgntRepository.cs" />
     <Compile Include="Persistence\Repositories\PerformanceRateRepository.cs" />

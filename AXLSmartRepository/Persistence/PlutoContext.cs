@@ -47,6 +47,7 @@ namespace AXLSmartRepository.Persistence
         public virtual DbSet<ComplaintDetail> ComplaintDetails { get; set; }
         public virtual DbSet<AppointmentDetail> AppointmentDetails { get; set; }
         public virtual DbSet<PerformanceRateDetails> PerformanceRateDetails { get; set; }
+        public virtual DbSet<LeaveDetail> LeaveDetails { get; set; }
 
         //SQL QUERIES
         public virtual DbSet<PersonList_vw> PersonList_vws { get; set; }
@@ -63,6 +64,7 @@ namespace AXLSmartRepository.Persistence
         public virtual DbSet<AppointmentList_vw> AppointmentList_vws { get; set; }
         public virtual DbSet<PerformanceRateResult_vw> PerformanceRateResult_vws { get; set; }
         public virtual DbSet<LDNAList_vw> LDNAList_vws { get; set; }
+        public virtual DbSet<LeaveList_vw> LeaveList_vws { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder) {
             modelBuilder.Entity<PersonWorkExperience>().Property(x => x.monthlySalary).HasColumnType("decimal(18,2)");
             modelBuilder.Entity<JobRequisition>().Property(x => x.salary).HasColumnType("decimal(18,2)");
@@ -84,6 +86,7 @@ namespace AXLSmartRepository.Persistence
             modelBuilder.Entity<AppointmentList_vw>().HasNoKey().ToView("AppointmentList_vw");
             modelBuilder.Entity<PerformanceRateResult_vw>().HasNoKey().ToView("PerformanceRateResult_vw");
             modelBuilder.Entity<LDNAList_vw>().HasNoKey().ToView("LDNAList_vw");
+            modelBuilder.Entity<LeaveList_vw>().HasNoKey().ToView("LeaveList_vw");
             modelBuilder.Entity<BudgetUtilizationDetail>().Property(x => x.totalBudgetJO).HasColumnType("decimal(18,2)");
             modelBuilder.Entity<BudgetUtilizationDetail>().Property(x => x.totalBudgetPlantil).HasColumnType("decimal(18,2)");
             modelBuilder.Entity<BudgetUtilizationDetail>().Property(x => x.amountSpentQ1JO).HasColumnType("decimal(18,2)");

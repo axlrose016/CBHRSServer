@@ -67,6 +67,8 @@ namespace AXLSmartRepository.Core.Models
         public virtual ICollection<PersonEducation> personEducations { get; set; }
         public virtual ICollection<PersonEligibility> personEligibilities { get; set; }
         public virtual ICollection<PersonWorkExperience> personWorkExperiences { get; set; }
+        public virtual int? vacation_leave_credit { get; set; }
+        public virtual int? sick_leave_credit { get; set; }
     }
     public class PersonTraining
     {
@@ -159,6 +161,7 @@ namespace AXLSmartRepository.Core.Models
     public class PersonList_vw
     {
         public Guid personId { get; set; }
+        public Guid userId { get; set; }
         public string firstName { get; set; }
         public string middleName { get; set; }
         public string lastName { get; set; }

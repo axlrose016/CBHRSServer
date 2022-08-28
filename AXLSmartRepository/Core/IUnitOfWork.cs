@@ -21,6 +21,7 @@ namespace AXLSmartRepository.Core
         IPerformanceMgntRepository PerformanceMgnts { get; set; }
         IRecruitmentRepository Recruitment { get; set; }
         IPerformanceRateRepository PerformanceRates { get; set; }
+        ILeaveRepository Leaves { get; set; }
         int Complete();
     }
 }

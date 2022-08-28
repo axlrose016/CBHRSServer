@@ -19,6 +19,8 @@ namespace AXLSmartRepository.Core.Repositories
         List<HRStaffingPlanList_vw> GetHRStaffingListView();
         Task<Guid> UpdateHRStaffingDetailAsync(HRStaffingPlanDetail pMgntDetail);
         Task<ComplaintDetail> GetComplaintDetailById(Guid id);
+        Task<ComplaintDetail> GetComplaineeDetailById(Guid id);
+        Task<ComplaintDetail> GetIsGuiltyComplainee(Guid id);
         List<ComplaintList_vw> GetComplaintDetailListView();
         Task<Guid> UpdateComplaintDetailAsync(ComplaintDetail pMgntDetail);
 

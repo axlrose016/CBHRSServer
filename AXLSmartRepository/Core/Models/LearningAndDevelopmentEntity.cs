@@ -175,6 +175,7 @@ namespace AXLSmartRepository.Core.Models
     public class PerformanceRateResult_vw
     {
         public Guid performanceRateId { get; set; }
+        public Guid personId { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
         public string middleName { get; set; }

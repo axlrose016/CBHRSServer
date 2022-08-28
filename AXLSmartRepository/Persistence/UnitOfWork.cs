@@ -24,7 +24,7 @@ namespace AXLSmartRepository.Persistence
         public IPerformanceMgntRepository PerformanceMgnts { get; set; }
         public IRecruitmentRepository Recruitment { get; set; }
         public IPerformanceRateRepository PerformanceRates { get; set; }
-
+        public ILeaveRepository Leaves { get; set; }
         public UnitOfWork(PlutoContext _context)
         {
             Context = _context;
@@ -39,6 +39,7 @@ namespace AXLSmartRepository.Persistence
             PerformanceMgnts = new PerformanceMgntRepository(Context);
             Recruitment = new RecruitmentRepository(Context);
             PerformanceRates = new PerformanceRateRepository(Context);
+            Leaves = new LeaveRepository(Context);
         }
 
         public int Complete()

@@ -11,6 +11,8 @@ namespace AXLSmartRepository.Core.Repositories
     {
         Task<Guid> UpdatePersonDetailsAsync(PersonDetail personDetail);
         Task<PersonDetail> GetPDSById(Guid id);
+        Task<PersonDetail> GetPDSByUserId(Guid id);
+        Task<PersonDetail> GetPDSById(Guid id, int idType);
         List<PersonList_vw> GetPDSListView();
     }
 }
