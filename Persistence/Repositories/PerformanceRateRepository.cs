@@ -39,11 +39,6 @@ namespace AXLSmartRepository.Persistence.Repositories
             return performanceDetail.performanceRateId;
         }
 
-        public async Task<PerformanceRateDetails> GetPerformanceByPerson(Guid id)
-        {
-            return await PlutoContext.PerformanceRateDetails.Where(w => w.personId == id).FirstOrDefaultAsync();
-        }
-
         public PlutoContext PlutoContext
         {
             get { return Context as PlutoContext; }

@@ -49,10 +49,5 @@ namespace AXLSmartRepository.Persistence.Repositories
             await PlutoContext.SaveChangesAsync();
             return wapDetail.wapId;
         }
-
-        public async Task<WorkplaceAppicationPlan> GetWAPByPerson(Guid id)
-        {
-            return await PlutoContext.WorkplaceAppicationPlans.Where(w => w.personId == id).FirstOrDefaultAsync();
-        }
     }
 }

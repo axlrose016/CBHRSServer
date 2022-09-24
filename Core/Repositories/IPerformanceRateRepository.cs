@@ -13,6 +13,5 @@ namespace AXLSmartRepository.Core.Repositories
         Task<Guid> UpdatePerformanceRate(PerformanceRateDetails performanceDetail);
         Task<PerformanceRateDetails> GetPerformanceById(Guid id);
         List<PerformanceRateResult_vw> GetPerformanceList();
-        Task<PerformanceRateDetails> GetPerformanceByPerson(Guid id);
     }
 }

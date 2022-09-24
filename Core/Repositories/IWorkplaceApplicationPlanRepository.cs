@@ -11,7 +11,6 @@ namespace AXLSmartRepository.Core.Repositories
     {
         Task<Guid> UpdateWAPDetailsAsync(WorkplaceAppicationPlan wapDetail);
         Task<WorkplaceAppicationPlan> GetWAPById(Guid id);
-        Task<WorkplaceAppicationPlan> GetWAPByPerson(Guid id);
         List<WorkplaceApplicationPlan_vw> GetWAPListView();
         List<WorkplaceAppicationPlan> GetWAPList();
     }
